@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Ben Norris
-email: info@bennorris.com
-description: Sharing mental health, parenting, leadership, and other thoughts
+title: Mental Work Health
+email: ben@mentalworkhealth.org
+description: Helping reduce the stigma of mental health, especially in the workplace
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: https://bennorris.com
-plausible: bennorris.com
+url: https://mentalworkhealth.org
+plausible: mentalworkhealth.org
 author:
    name: Ben Norris
    twitter: bsndesign
@@ -46,14 +46,6 @@ permalink:    /:year/:month/:day/:title
 include:
   - /.well-known
 
-# Feed
-feed:
-  categories:
-    - Mental Work Health
-    - Gospel Sketcher
-    - Sketchnotable
-    - Kid Quotes
-
 # Exclude from processing.
 exclude:
   - .asset-cache
@@ -78,12 +70,6 @@ exclude:
   - /docs # ignore Basically Basic sample site
   - /example # ignore Basically Basic dev site
 
-collections:
-  drafts:
-    output: true
-  presentations:
-    output: true
-
 # Front Matter Defaults
 defaults:
   # _posts
@@ -94,8 +80,3 @@ defaults:
       layout: post
       read_time: true
       word_count: true
-  - scope:
-      path: "_drafts"
-      type: drafts
-    values:
-      layout: draft
