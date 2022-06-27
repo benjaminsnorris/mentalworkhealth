@@ -5,7 +5,7 @@ image:
   path: https://media.bennorris.com/images/mentalworkhealth/posts/yes-we’re-open.jpg
   thumbnail: https://media.bennorris.com/images/mentalworkhealth/posts/thumbnails/yes-we’re-open.jpg
 gallery_thumb: https://media.bennorris.com/images/mentalworkhealth/thumbs/yes-we’re-open.jpg
-category: Mental Work Health
+canonical_url: https://bennorris.com/2022/05/20/yes-were-open
 tags:
 - weekly update
 - mental health

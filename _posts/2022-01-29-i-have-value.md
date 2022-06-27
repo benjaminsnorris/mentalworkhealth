@@ -5,7 +5,7 @@ image:
   path: https://media.bennorris.com/images/mentalworkhealth/posts/i-have-value.jpg
   thumbnail: https://media.bennorris.com/images/mentalworkhealth/posts/thumbnails/i-have-value.jpg
 gallery_thumb: https://media.bennorris.com/images/mentalworkhealth/thumbs/i-have-value.jpg
-category: Mental Work Health
+canonical_url: https://bennorris.com/2022/01/29/i-have-value
 tags:
 - weekly update
 - mental health

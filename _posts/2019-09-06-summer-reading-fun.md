@@ -4,7 +4,7 @@ date: 2019-09-06 07:09:00-0600
 tags:
 - mental health
 - favorite
-category: Mental Work Health
+canonical_url: https://bennorris.com/2019/09/06/summer-reading-fun
 ---
 
 ![4 weeks, 13 books, 9000+ pages](https://media.bennorris.com/images/bennorris/uploads/2019/4ee82c481a.jpg){:loading="lazy"}

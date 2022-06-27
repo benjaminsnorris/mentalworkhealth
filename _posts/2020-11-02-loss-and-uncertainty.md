@@ -4,7 +4,7 @@ date: 2020-11-02 21:49:07-0700
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2020/11/02/loss-and-uncertainty
 ---
 
 Amidst tears and candy, this week brought both expected and surprising **news of departures**, a welcome **reminder of progress**, and a **spooky and worthwhile holiday**.

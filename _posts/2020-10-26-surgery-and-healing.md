@@ -4,7 +4,7 @@ date: 2020-10-26 21:37:09-0600
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2020/10/26/surgery-and-healing
 ---
 
 In this past week, I dealt with the **pain** and **upside of surgery**, and wrestled with **an existential question**.

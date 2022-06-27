@@ -3,7 +3,7 @@ title: "💮 What anxiety feels like"
 date: 2019-03-20 13:06:44-0600
 tags:
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2019/03/20/what-anxiety-feels-like
 ---
 
 ![Arc reactor](https://media.bennorris.com/images/bennorris/uploads/2019/a9579719ca.jpg){:loading="lazy"}

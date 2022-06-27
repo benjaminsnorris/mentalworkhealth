@@ -1,7 +1,7 @@
 ---
 title: "Learning to swear"
 date: 2022-05-02 09:47:18-0600
-category: Mental Work Health
+canonical_url: https://bennorris.com/2022/05/02/learning-to-swear
 image: 
   path: https://media.bennorris.com/images/mentalworkhealth/posts/learning-to-swear.jpg
   thumbnail: https://media.bennorris.com/images/mentalworkhealth/posts/thumbnails/learning-to-swear.jpg

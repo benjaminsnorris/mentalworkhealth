@@ -4,7 +4,7 @@ date: 2021-07-15 10:36:54-0600
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/07/15/ocd-in-action
 ---
 
 In this update, I share a positive application of my OCD in my efforts to become a villain.

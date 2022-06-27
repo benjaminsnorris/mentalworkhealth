@@ -4,7 +4,7 @@ date: 2021-04-30 13:25:48-0600
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/04/30/designing-indulgently
 ---
 
 This week I discuss **impulse control**, the **gift of OCD**, and **change and growth**.

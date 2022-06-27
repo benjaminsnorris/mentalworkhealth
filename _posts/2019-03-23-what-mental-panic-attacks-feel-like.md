@@ -3,7 +3,7 @@ title: "💮 What mental panic attacks feel like"
 date: 2019-03-23 10:58:24-0600
 tags:
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2019/03/23/what-mental-panic-attacks-feel-like
 ---
 
 ![ESPN Multicast](https://media.bennorris.com/images/bennorris/uploads/2019/a1a8c95ff6.jpg){:loading="lazy"}

@@ -5,7 +5,7 @@ image:
   path: https://media.bennorris.com/images/mentalworkhealth/posts/coping-sketches.jpg
   thumbnail: https://media.bennorris.com/images/mentalworkhealth/posts/thumbnails/coping-sketches.jpg
 gallery_thumb: https://media.bennorris.com/images/mentalworkhealth/thumbs/coping-sketches.jpg
-category: Mental Work Health
+canonical_url: https://bennorris.com/2022/02/13/coping-sketches
 tags:
 - mental health
 - sketchnotes

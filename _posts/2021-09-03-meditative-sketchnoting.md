@@ -5,7 +5,7 @@ date: 2021-09-03 09:13:30-0600
 image: 
   path: https://media.bennorris.com/images/mentalworkhealth/posts/meditative-sketchnotes.jpg
   thumbnail: https://media.bennorris.com/images/mentalworkhealth/posts/thumbnails/meditative-sketchnotes.jpg
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/09/03/meditative-sketchnoting
 tags:
 - weekly update
 - mental health

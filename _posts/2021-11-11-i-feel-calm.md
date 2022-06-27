@@ -5,7 +5,7 @@ image:
   path: https://media.bennorris.com/images/mentalworkhealth/posts/i-feel-calm.jpg
   thumbnail: https://media.bennorris.com/images/mentalworkhealth/posts/thumbnails/i-feel-calm.jpg
 gallery_thumb: https://media.bennorris.com/images/mentalworkhealth/thumbs/i-feel-calm.jpg
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/11/11/i-feel-calm
 tags:
 - weekly update
 - mental health

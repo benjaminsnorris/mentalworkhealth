@@ -4,7 +4,7 @@ date: 2020-09-08 10:46:00-0600
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2020/09/08/rebecoming-a-novice
 ---
 
 In my second weekly update, I share about **missing medication**, **blacksmithing**, and **role-playing as a thuggish henchman**.

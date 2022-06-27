@@ -5,7 +5,7 @@ image:
   path: https://media.bennorris.com/images/mentalworkhealth/posts/the-happy-mess.jpg
   thumbnail: https://media.bennorris.com/images/mentalworkhealth/posts/thumbnails/the-happy-mess.jpg
 gallery_thumb: https://media.bennorris.com/images/mentalworkhealth/thumbs/the-happy-mess.jpg
-category: Mental Work Health
+canonical_url: https://bennorris.com/2022/03/19/the-happy-mess
 tags:
 - weekly update
 - mental health

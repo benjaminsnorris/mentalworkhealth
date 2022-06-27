@@ -3,7 +3,7 @@ date: 2019-03-27 09:14:28-0600
 title: "Finishing my series"
 tags:
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2019/03/27/finishing-my-series
 short: true
 ---
 

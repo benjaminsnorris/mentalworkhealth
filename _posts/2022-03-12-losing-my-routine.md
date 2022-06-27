@@ -5,7 +5,7 @@ image:
   path: https://media.bennorris.com/images/mentalworkhealth/posts/losing-my-routine.jpg
   thumbnail: https://media.bennorris.com/images/mentalworkhealth/posts/thumbnails/losing-my-routine.jpg
 gallery_thumb: https://media.bennorris.com/images/mentalworkhealth/thumbs/losing-my-routine.jpg
-category: Mental Work Health
+canonical_url: https://bennorris.com/2022/03/12/losing-my-routine
 tags:
 - weekly update
 - mental health

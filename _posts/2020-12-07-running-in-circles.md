@@ -4,7 +4,7 @@ date: 2020-12-07 15:30:59-0700
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2020/12/07/running-in-circles
 ---
 
 Following a difficult week, I share about another **dissociative panic attack**, the healing that comes through **facing uncertainty**, and **frantic website work**.

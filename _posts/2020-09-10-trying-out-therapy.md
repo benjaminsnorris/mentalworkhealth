@@ -3,7 +3,7 @@ title: "Trying out therapy"
 date: 2020-09-10 22:14:00-0600
 tags:
 - my story
-category: Mental Work Health
+canonical_url: https://bennorris.com/2020/09/10/trying-out-therapy
 ---
 
 My first experience with talk therapy was uncomfortable, awkward, and unfulfilling. I have since had fantastic experiences, but the beginning was anything but.

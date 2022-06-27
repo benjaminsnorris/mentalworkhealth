@@ -4,7 +4,7 @@ date: 2021-03-22 07:49:00-0600
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/03/22/enamored-with-notebooks
 ---
 
 This week I share about a **significant birthday**, a **leather notebook cover**, and a **new psychiatrist**.

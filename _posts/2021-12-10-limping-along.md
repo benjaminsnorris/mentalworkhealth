@@ -5,7 +5,7 @@ image:
   path: https://media.bennorris.com/images/mentalworkhealth/posts/limping-along.jpg
   thumbnail: https://media.bennorris.com/images/mentalworkhealth/posts/thumbnails/limping-along.jpg
 gallery_thumb: https://media.bennorris.com/images/mentalworkhealth/thumbs/limping-along.jpg
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/12/10/limping-along
 tags:
 - weekly update
 - mental health

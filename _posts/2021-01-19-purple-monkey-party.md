@@ -4,7 +4,7 @@ date: 2021-01-19 08:29:55-0700
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/01/19/purple-monkey-party
 ---
 
 In this week’s update, I discuss a **purple monkey birthday party**, a **magical phrase**, and a **tricky programming bug**.

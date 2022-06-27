@@ -4,7 +4,7 @@ date: 2020-09-21 17:47:00-0600
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2020/09/21/recharging-in-allentown
 ---
 
 In my regular weekly update, I share about **disappointing others**, **traveling with my brother**, and **sketching my surroundings**.

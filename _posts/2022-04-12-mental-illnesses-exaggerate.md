@@ -5,7 +5,7 @@ image:
   path: https://media.bennorris.com/images/mentalworkhealth/posts/mental-illnesses-exaggerate.jpg
   thumbnail: https://media.bennorris.com/images/mentalworkhealth/posts/thumbnails/mental-illnesses-exaggerate.jpg
 gallery_thumb: https://media.bennorris.com/images/mentalworkhealth/thumbs/mental-illnesses-exaggerate.jpg
-category: Mental Work Health
+canonical_url: https://bennorris.com/2022/04/12/mental-illnesses-exaggerate
 tags:
 - mental health
 - sketchnotes

@@ -4,7 +4,7 @@ date: 2019-08-23 10:30:00-0600
 tags:
 - mental health
 - free writing
-category: Mental Work Health
+canonical_url: https://bennorris.com/2019/08/23/experiences-over-artifacts
 ---
 
 While there are cases in which the output of an activity matters a great deal, in much of life the infinitesimal changes that occur in you matter even more.

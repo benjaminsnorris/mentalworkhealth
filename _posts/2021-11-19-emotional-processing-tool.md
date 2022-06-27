@@ -5,7 +5,7 @@ image:
   path: https://media.bennorris.com/images/mentalworkhealth/posts/emotional-processing.jpg
   thumbnail: https://media.bennorris.com/images/mentalworkhealth/posts/thumbnails/emotional-processing.jpg
 gallery_thumb: https://media.bennorris.com/images/mentalworkhealth/thumbs/emotional-processing.jpg
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/11/19/emotional-processing-tool
 tags:
 - weekly update
 - mental health

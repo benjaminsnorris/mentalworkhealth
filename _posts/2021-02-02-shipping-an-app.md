@@ -4,7 +4,7 @@ date: 2021-02-02 18:40:35-0700
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/02/02/shipping-an-app
 ---
 
 My update from this week includes a **grossly overdue vehicle registration**, finally **releasing a major app update**, and **continued Lego-building success**.

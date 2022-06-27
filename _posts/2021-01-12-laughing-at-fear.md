@@ -4,7 +4,7 @@ date: 2021-01-12 13:19:23-0700
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/01/12/laughing-at-fear
 ---
 
 This weekly update shares about **the fear of fear**, **building Legos**, and **the importance of support groups**.

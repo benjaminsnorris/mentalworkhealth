@@ -3,8 +3,7 @@ title: "🌀 Just write"
 date: 2019-07-03 08:56:46-0600
 tags:
 - mental health
-- musings
-category: Mental Work Health
+canonical_url: https://bennorris.com/2019/07/03/just-write
 ---
 
 Life can quickly get overwhelming, and if you allow yourself to be paralyzed by waiting for perfection, you will miss out on many opportunities.

@@ -3,7 +3,7 @@ title: "💮 Let’s take care of us"
 date: 2019-11-29 09:09:03-0700
 tags:
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2019/11/29/lets-take-care-of-us
 ---
 
 The traditional holiday season can be full of joy, but also sorrow and heartache. Even for those who do not struggle with mental illnesses, there are many reasons that could cause this time of year to be difficult.

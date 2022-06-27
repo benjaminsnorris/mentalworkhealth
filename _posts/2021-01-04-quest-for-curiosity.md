@@ -4,7 +4,7 @@ date: 2021-01-04 21:38:32-0700
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/01/04/quest-for-curiosity
 ---
 
 In my first weekly update of the new year, I discuss the **difficulty of the holidays**, the **joy of a new project**, and **missing a week**.

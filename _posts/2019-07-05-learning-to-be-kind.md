@@ -4,7 +4,7 @@ date: 2019-07-05 11:25:00-0600
 tags:
 - mental health
 - musings
-category: Mental Work Health
+canonical_url: https://bennorris.com/2019/07/05/learning-to-be-kind
 ---
 
 As much as I learn the skill of self-compassion, it is so far outside of my natural response that I still feel like an awkward novice.

@@ -4,7 +4,7 @@ date: 2021-06-16 13:59:15-0600
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/06/16/out-of-milk
 ---
 
 The [Holistic Psychologist](https://theholisticpsychologist.com/) said recently, “Wise people have known suffering + transformed it into grace.” Here’s my attempt to become more wise.

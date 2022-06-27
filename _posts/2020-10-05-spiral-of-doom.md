@@ -5,7 +5,7 @@ tags:
 - weekly update
 - mental health
 - general conference
-category: Mental Work Health
+canonical_url: https://bennorris.com/2020/10/05/spiral-of-doom
 ---
 
 In my update this week, I discuss **parenting**, **sketchnoting**, and **self-compassion**.

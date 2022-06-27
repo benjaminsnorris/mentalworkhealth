@@ -5,7 +5,7 @@ image:
   path: https://media.bennorris.com/images/mentalworkhealth/posts/letting-ocd-win.jpg
   thumbnail: https://media.bennorris.com/images/mentalworkhealth/posts/thumbnails/letting-ocd-win.jpg
 gallery_thumb: https://media.bennorris.com/images/mentalworkhealth/thumbs/letting-ocd-win.jpg
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/10/08/letting-ocd-win
 tags:
 - weekly update
 - mental health

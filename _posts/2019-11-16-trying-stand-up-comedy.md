@@ -5,7 +5,7 @@ tags:
 - mental health
 - favorite
 - video
-category: Mental Work Health
+canonical_url: https://bennorris.com/2019/11/16/trying-stand-up-comedy
 ---
 
 I have long nursed a secret desire to do stand-up comedy, although I have allowed my fears to hold me back from trying. I finally made the attempt as part of my OCD recovery, and enjoyed the experience.

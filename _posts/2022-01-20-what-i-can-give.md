@@ -5,7 +5,7 @@ image:
   path: https://media.bennorris.com/images/mentalworkhealth/posts/what-i-can-give.jpg
   thumbnail: https://media.bennorris.com/images/mentalworkhealth/posts/thumbnails/what-i-can-give.jpg
 gallery_thumb: https://media.bennorris.com/images/mentalworkhealth/thumbs/what-i-can-give.jpg
-category: Mental Work Health
+canonical_url: https://bennorris.com/2022/01/20/what-i-can-give
 tags:
 - weekly update
 - mental health

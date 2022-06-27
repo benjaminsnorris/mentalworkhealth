@@ -5,7 +5,7 @@ tags:
 - weekly update
 - mental health
 - free writing
-category: Mental Work Health
+canonical_url: https://bennorris.com/2020/10/20/aftermath-of-therapy
 ---
 
 This week is all about the experience and fallout of an intense therapy session—**extreme agitation**, the pleasure of a **strong support system**, and the clarity that came through **journaling**.

@@ -4,7 +4,7 @@ date: 2019-01-26 08:33:34-0700
 tags:
 - mental health
 - favorite
-category: Mental Work Health
+canonical_url: https://bennorris.com/2019/01/26/coming-out
 ---
 
 **tl;dr** Hi, I’m Ben, and I have OCD. 👋

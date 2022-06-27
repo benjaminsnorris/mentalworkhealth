@@ -4,7 +4,7 @@ date: 2020-09-01 21:57:00-0600
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2020/09/01/spinning-in-neutral
 ---
 
 In the hopes of publishing more regularly, I am trying out a new format. I want to share some thoughts on **decisions**, **milestones**, and **exercise**.

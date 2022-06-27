@@ -4,7 +4,7 @@ date: 2019-11-07 15:20:00-0700
 tags:
 - mental health
 - video
-category: Mental Work Health
+canonical_url: https://bennorris.com/2019/11/07/health-meters-presentation
 ---
 
 As I have had my own experience with mental health over the last year or so, I have found that looking at my own health in a more holistic way to be extremely helpful.

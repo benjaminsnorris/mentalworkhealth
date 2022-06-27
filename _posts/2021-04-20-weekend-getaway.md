@@ -4,7 +4,7 @@ date: 2021-04-20 21:21:22-0600
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/04/20/weekend-getaway
 ---
 
 After a delightful weekend away, I share about **getting sick**, **taking time**, and a **fun new show**.

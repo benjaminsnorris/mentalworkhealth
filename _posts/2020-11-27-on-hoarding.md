@@ -3,7 +3,7 @@ title: "On hoarding"
 date: 2020-11-27 10:33:00-0700
 tags:
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2020/11/27/on-hoarding
 ---
 
 These clips are a fascinating take on hoarding by [Malcolm Gladwell](http://gladwell.com) and [Randy Frost](https://www.smith.edu/academics/faculty/randy-frost).

@@ -5,7 +5,7 @@ image:
   path: https://media.bennorris.com/images/mentalworkhealth/posts/emotion-filled-week.jpg
   thumbnail: https://media.bennorris.com/images/mentalworkhealth/posts/thumbnails/emotion-filled-week.jpg
 gallery_thumb: https://media.bennorris.com/images/mentalworkhealth/thumbs/emotion-filled-week.jpg
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/10/15/buying-beard-balm
 tags:
 - weekly update
 - mental health

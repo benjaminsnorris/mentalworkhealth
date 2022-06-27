@@ -4,7 +4,7 @@ date: 2021-02-08 10:19:42-0700
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/02/08/happily-being-shot
 ---
 
 In a quick update this week, I discuss **taking a week off**, a **date with my son**, and a **device fast**.

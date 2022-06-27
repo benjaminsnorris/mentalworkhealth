@@ -4,7 +4,7 @@ date: 2020-11-30 21:11:00-0700
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2020/11/30/gratitude-and-panic
 ---
 
 This week, I share about **nailing the holiday**, **recognizing panic attacks**, and **expressing gratitude**.

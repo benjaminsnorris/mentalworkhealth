@@ -5,7 +5,7 @@ image:
   path: https://media.bennorris.com/images/mentalworkhealth/posts/stay-at-home-dad.jpg
   thumbnail: https://media.bennorris.com/images/mentalworkhealth/posts/thumbnails/stay-at-home-dad.jpg
 gallery_thumb: https://media.bennorris.com/images/mentalworkhealth/thumbs/stay-at-home-dad.jpg
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/09/24/staying-home
 tags:
 - weekly update
 - mental health

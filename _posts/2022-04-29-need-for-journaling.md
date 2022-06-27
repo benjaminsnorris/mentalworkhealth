@@ -5,7 +5,7 @@ image:
   path: https://media.bennorris.com/images/mentalworkhealth/posts/need-for-journaling.jpg
   thumbnail: https://media.bennorris.com/images/mentalworkhealth/posts/thumbnails/need-for-journaling.jpg
 gallery_thumb: https://media.bennorris.com/images/mentalworkhealth/thumbs/need-for-journaling.jpg
-category: Mental Work Health
+canonical_url: https://bennorris.com/2022/04/29/need-for-journaling
 tags:
 - weekly update
 - mental health

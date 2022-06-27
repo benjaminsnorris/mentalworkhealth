@@ -5,7 +5,7 @@ image:
   path: https://media.bennorris.com/images/mentalworkhealth/posts/breaking-streaks.jpg
   thumbnail: https://media.bennorris.com/images/mentalworkhealth/posts/thumbnails/breaking-streaks.jpg
 gallery_thumb: https://media.bennorris.com/images/mentalworkhealth/thumbs/breaking-streaks.jpg
-category: Mental Work Health
+canonical_url: https://bennorris.com/2022/04/15/breaking-streaks
 tags:
 - weekly update
 - mental health

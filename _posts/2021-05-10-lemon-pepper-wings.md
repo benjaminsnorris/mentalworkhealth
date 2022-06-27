@@ -6,7 +6,7 @@ tags:
 - mental health
 - free writing
 - story
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/05/10/lemon-pepper-wings
 ---
 
 In my update this week, I try something new, and share the **story of a panic attack**.

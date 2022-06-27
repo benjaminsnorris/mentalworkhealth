@@ -3,7 +3,7 @@ title: "Background and upbringing"
 date: 2019-12-06 15:32:00-0700
 tags:
 - my story
-category: Mental Work Health
+canonical_url: https://bennorris.com/2019/12/06/background-and-upbringing
 ---
 
 One of the first things that I discovered when beginning therapy was to appreciate the impact that my previous life experiences have on my current situation. As I have talked with others, it seems clear that my experience is not unique. We all pass through moments that shape us into who we are today, and in order to understand ourselves, it is helpful to look back on our own history.

@@ -3,7 +3,7 @@ title: "💮 Promoting mental wellness"
 date: 2019-11-21 20:22:01-0700
 tags:
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2019/11/21/promoting-mental-wellness
 ---
 
 One of my most satisfying accomplishments lately was participating in a department meeting yesterday where we were able to spend half an hour discussing mental health. I wanted to pause and reflect on the journey to make that happen.

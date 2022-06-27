@@ -4,7 +4,7 @@ date: 2021-06-24 08:49:43-0600
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/06/24/a-rough-week
 ---
 
 This week was a struggle. This update shares **what that looked like**, and a possible cause. I also share about **another craft project**, and a **teaser of a new app**.

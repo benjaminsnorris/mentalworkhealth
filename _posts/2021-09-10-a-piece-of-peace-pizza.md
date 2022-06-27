@@ -5,7 +5,7 @@ image:
   path: https://media.bennorris.com/images/mentalworkhealth/posts/piece-of-peace-pizza.jpg
   thumbnail: https://media.bennorris.com/images/mentalworkhealth/posts/thumbnails/piece-of-peace-pizza.jpg
 gallery_thumb: https://media.bennorris.com/images/mentalworkhealth/thumbs/piece-of-peace-pizza.jpg
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/09/10/a-piece-of-peace-pizza
 tags:
 - weekly update
 - mental health

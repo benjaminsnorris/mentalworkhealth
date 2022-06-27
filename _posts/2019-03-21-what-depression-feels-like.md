@@ -3,7 +3,7 @@ title: "💮 What depression feels like"
 date: 2019-03-21 12:55:54-0600
 tags:
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2019/03/21/what-depression-feels-like
 ---
 
 ![Ahch-To Pit](https://media.bennorris.com/images/bennorris/uploads/2019/042a0e7bc6.jpg){:loading="lazy"}

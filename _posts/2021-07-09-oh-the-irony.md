@@ -4,7 +4,7 @@ date: 2021-07-09 11:05:48-0600
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/07/09/oh-the-irony
 ---
 
 In this update, I share **details of the new app** I have been creating, and the **deep irony** of become obsessed with making it.

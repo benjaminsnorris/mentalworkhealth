@@ -4,7 +4,7 @@ date: 2021-05-26 23:41:11-0600
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/05/26/cross-stitching-at-work
 ---
 
 In this week, I discuss **feeling emotions**, a **relaxing project**, and **sketchnoting**. 

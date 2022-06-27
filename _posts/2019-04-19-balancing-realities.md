@@ -3,7 +3,7 @@ title: "💮 Balancing realities"
 date: 2019-04-19 12:30:46-0600
 tags:
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2019/04/19/balancing-realities
 ---
 
 ![Opposing thoughts](https://media.bennorris.com/images/bennorris/uploads/2019/0c722b06c1.png){:loading="lazy"}

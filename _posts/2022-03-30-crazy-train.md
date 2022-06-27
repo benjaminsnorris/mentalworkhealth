@@ -1,7 +1,7 @@
 ---
 title: "Crazy train"
 date: 2022-03-30 04:52:11-0600
-category: Mental Work Health
+canonical_url: https://bennorris.com/2022/03/30/crazy-train
 tags:
 - mental health
 short: true 

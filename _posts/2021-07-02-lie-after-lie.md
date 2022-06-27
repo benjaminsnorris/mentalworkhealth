@@ -4,7 +4,7 @@ date: 2021-07-02 14:29:57-0600
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/07/02/lie-after-lie
 ---
 
 This update describes a **week of obsession** as well an illustration of **making progress**.

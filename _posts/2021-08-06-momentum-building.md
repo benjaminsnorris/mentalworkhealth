@@ -4,7 +4,7 @@ date: 2021-08-06 08:46:49-0600
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/08/06/momentum-building
 ---
 
 In this week’s update, I share about mental health being highlighted by **Ted Lasso**, **Simone Biles**, and **Michael Phelps**.

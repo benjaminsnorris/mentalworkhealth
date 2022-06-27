@@ -4,7 +4,7 @@ date: 2020-10-12 20:40:00-0600
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2020/10/12/an-experienced-beginner
 ---
 
 This week brings some thoughts on  a **surprise struggle**, a **parenting win**, and **pragmatic sketching**.

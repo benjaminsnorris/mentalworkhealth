@@ -5,7 +5,7 @@ tags:
 - weekly update
 - mental health
 - free writing
-category: Mental Work Health
+canonical_url: https://bennorris.com/2020/11/16/a-slight-breakdown
 ---
 
 In this week’s update, I discuss **moving**, **playing games**, and **losing time**.

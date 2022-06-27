@@ -3,7 +3,7 @@ title: "Suggestion of counseling"
 date: 2019-12-23 15:39:00-0700
 tags:
 - my story
-category: Mental Work Health
+canonical_url: https://bennorris.com/2019/12/23/suggestion-of-counseling
 ---
 
 As someone who grew up largely ignorant of mental health, and the situations and resources connected with it, I was completely taken aback when someone suggested that I consider counseling.

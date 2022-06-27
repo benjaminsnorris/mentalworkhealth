@@ -3,7 +3,7 @@ title: "💮 Right vs left"
 date: 2019-02-04 08:05:29-0700
 tags:
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2019/02/04/right-vs-left
 ---
 
 The tale of an epic battle between the incumbent champion and the untested underdog. Good versus evil. Right versus ~~wrong~~ left.

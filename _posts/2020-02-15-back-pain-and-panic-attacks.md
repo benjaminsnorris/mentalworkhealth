@@ -3,7 +3,7 @@ title: "Back pain and panic attacks"
 date: 2020-02-15 17:08:00-0700
 tags:
 - my story
-category: Mental Work Health
+canonical_url: https://bennorris.com/2020/02/15/back-pain-and-panic-attacks
 ---
 
 Mental health and physical health can be intimately connected, as I found out when I had my first personal exposure to a mental health crisis.

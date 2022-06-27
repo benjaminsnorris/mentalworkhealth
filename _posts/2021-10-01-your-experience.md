@@ -5,7 +5,7 @@ image:
   path: https://media.bennorris.com/images/mentalworkhealth/posts/your-experience.jpg
   thumbnail: https://media.bennorris.com/images/mentalworkhealth/posts/thumbnails/your-experience.jpg
 gallery_thumb: https://media.bennorris.com/images/mentalworkhealth/thumbs/your-experience.jpg
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/10/01/your-experience
 tags:
 - weekly update
 - mental health

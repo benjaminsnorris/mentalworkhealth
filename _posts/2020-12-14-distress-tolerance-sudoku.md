@@ -4,7 +4,7 @@ date: 2020-12-14 22:21:50-0700
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2020/12/14/distress-tolerance-sudoku
 ---
 
 In this edition of my weekly update, I write about the skill of **distress tolerance**, a lovely **sudoku app**, and **authenticity**.

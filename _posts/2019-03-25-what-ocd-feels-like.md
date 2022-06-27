@@ -3,7 +3,7 @@ title: "💮 What OCD feels like"
 date: 2019-03-25 10:26:44-0600
 tags:
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2019/03/25/what-ocd-feels-like
 ---
 
 ![Drums](https://media.bennorris.com/images/bennorris/uploads/2019/5d997d840f.jpg){:loading="lazy"}

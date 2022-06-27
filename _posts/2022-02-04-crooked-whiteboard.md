@@ -5,7 +5,7 @@ image:
   path: https://media.bennorris.com/images/mentalworkhealth/posts/crooked-whiteboard.jpg
   thumbnail: https://media.bennorris.com/images/mentalworkhealth/posts/thumbnails/crooked-whiteboard.jpg
 gallery_thumb: https://media.bennorris.com/images/mentalworkhealth/thumbs/crooked-whiteboard.jpg
-category: Mental Work Health
+canonical_url: https://bennorris.com/2022/02/04/crooked-whiteboard
 tags:
 - weekly update
 - mental health

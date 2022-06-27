@@ -4,7 +4,7 @@ date: 2020-09-14 20:22:00-0600
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2020/09/14/show-up-see
 ---
 
 After a difficult week, I share about **taking days off**, **presenting to executives**, and **thoughts on suffering**.

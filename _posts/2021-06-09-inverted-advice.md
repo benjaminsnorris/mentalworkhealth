@@ -4,7 +4,7 @@ date: 2021-06-09 08:33:29-0600
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/06/09/inverted-advice
 ---
 
 This week, I share about a conversation that took an unexpected turn, and the reminders of my mental health journey up until now.

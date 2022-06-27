@@ -3,7 +3,7 @@ title: "💮 What physical panic attacks feel like"
 date: 2019-03-22 11:07:57-0600
 tags:
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2019/03/22/what-physical-panic-attacks-feel-like
 ---
 
 ![Obscurus](https://media.bennorris.com/images/bennorris/uploads/2019/9695a8a2ff.jpg){:loading="lazy"}

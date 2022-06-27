@@ -5,7 +5,7 @@ image:
   path: https://media.bennorris.com/images/mentalworkhealth/posts/playing-first-base.jpg
   thumbnail: https://media.bennorris.com/images/mentalworkhealth/posts/thumbnails/playing-first-base.jpg
 gallery_thumb: https://media.bennorris.com/images/mentalworkhealth/thumbs/playing-first-base.jpg
-category: Mental Work Health
+canonical_url: https://bennorris.com/2022/03/26/playing-first-base
 tags:
 - weekly update
 - mental health

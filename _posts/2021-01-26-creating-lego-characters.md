@@ -4,7 +4,7 @@ date: 2021-01-26 11:31:13-0700
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/01/26/creating-lego-characters
 ---
 
 This week’s update covers **pain at inconveniencing others**, the delights of **designing a presentation**, and **communicating with respect**.

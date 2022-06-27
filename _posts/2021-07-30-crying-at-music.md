@@ -4,7 +4,7 @@ date: 2021-07-30 16:28:00-0600
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/07/30/crying-at-music
 ---
 
 This week’s update shares an **emotional experience with music**, and then **wrestling with those emotions**.

@@ -5,7 +5,7 @@ image:
   path: https://media.bennorris.com/images/mentalworkhealth/posts/just-say-yes.jpg
   thumbnail: https://media.bennorris.com/images/mentalworkhealth/posts/thumbnails/just-say-yes.jpg
 gallery_thumb: https://media.bennorris.com/images/mentalworkhealth/thumbs/just-say-yes.jpg
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/11/05/just-say-yes
 tags:
 - weekly update
 - mental health

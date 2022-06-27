@@ -4,7 +4,7 @@ date: 2020-12-20 18:14:48-0700
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2020/12/20/like-yourself-again
 ---
 
 In my regular weekly update, I discuss **feeling like myself again**, renting a **private office**, and supporting my wife in taking a **sick day**.

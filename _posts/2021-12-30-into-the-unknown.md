@@ -5,7 +5,7 @@ image:
   path: https://media.bennorris.com/images/mentalworkhealth/posts/into-the-unknown.jpg
   thumbnail: https://media.bennorris.com/images/mentalworkhealth/posts/thumbnails/into-the-unknown.jpg
 gallery_thumb: https://media.bennorris.com/images/mentalworkhealth/thumbs/into-the-unknown.jpg
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/12/30/into-the-unknown
 tags:
 - weekly update
 - mental health

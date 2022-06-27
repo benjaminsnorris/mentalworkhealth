@@ -4,7 +4,7 @@ date: 2021-02-17 14:10:35-0700
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/02/17/crying-at-tv
 ---
 
 In my update this week, I share about **difficulty returning to work**, the **emotional impact of a TV show**, and the **results of my short device fast**.

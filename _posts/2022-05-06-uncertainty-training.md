@@ -5,7 +5,7 @@ image:
   path: https://media.bennorris.com/images/mentalworkhealth/posts/uncertainty-training.jpg
   thumbnail: https://media.bennorris.com/images/mentalworkhealth/posts/thumbnails/uncertainty-training.jpg
 gallery_thumb: https://media.bennorris.com/images/mentalworkhealth/thumbs/uncertainty-training.jpg
-category: Mental Work Health
+canonical_url: https://bennorris.com/2022/05/05/uncertainty-training
 tags:
 - weekly update
 - mental health

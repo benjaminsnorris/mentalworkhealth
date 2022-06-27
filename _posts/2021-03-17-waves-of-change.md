@@ -5,7 +5,7 @@ tags:
 - weekly update
 - mental health
 - free writing
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/03/17/waves-of-change
 ---
 
 In my update this week, I share about **more departures at work**, **writing by hand**, and looking forward to a **new psychiatrist**.

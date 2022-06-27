@@ -4,7 +4,7 @@ date: 2020-11-09 15:01:57-0700
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2020/11/09/human-or-robot
 ---
 
 In my weekly update, I discuss **saying goodbye**, **progress on a goal**, and a **healthy reminder of my fallibility**.

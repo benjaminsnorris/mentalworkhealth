@@ -4,7 +4,7 @@ date: 2021-06-04 09:32:19-0600
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/06/04/plan-changes
 ---
 
 In this week’s update, I share about a change in plans, and the challenge that comes from dealing with the associated emotions.

@@ -4,7 +4,7 @@ date: 2020-11-22 18:54:32-0700
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2020/11/22/when-therapy-fails
 ---
 
 This week felt like one of the longest years of my life. I discuss **layoffs**, **coping**, and **therapy failures**.

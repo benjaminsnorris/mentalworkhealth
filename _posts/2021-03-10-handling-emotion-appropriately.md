@@ -4,7 +4,7 @@ date: 2021-03-10 12:14:00-0700
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/03/10/handling-emotion-appropriately
 ---
 
 This week’s update includes **being asked for advice**, **mindfully processing emotions**, and a **new way to blog**.

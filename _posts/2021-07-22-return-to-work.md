@@ -9,7 +9,7 @@ tags:
 - weekly update
 - mental health
 - sketchnotes
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/07/22/return-to-work
 ---
 
 This week’s update includes a **delightful visit**, my experience with a **remote office space**, and **apprehensions about working in our corporate office**.

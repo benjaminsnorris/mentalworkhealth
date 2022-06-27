@@ -5,7 +5,7 @@ image:
   path: https://media.bennorris.com/images/mentalworkhealth/posts/spiraling-about-spiraling.jpg
   thumbnail: https://media.bennorris.com/images/mentalworkhealth/posts/thumbnails/spiraling-about-spiraling.jpg
 gallery_thumb: https://media.bennorris.com/images/mentalworkhealth/thumbs/spiraling-about-spiraling.jpg
-category: Mental Work Health
+canonical_url: https://bennorris.com/2022/03/05/spiraling-about-spiraling
 tags:
 - weekly update
 - mental health

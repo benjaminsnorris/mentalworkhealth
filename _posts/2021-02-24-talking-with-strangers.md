@@ -4,7 +4,7 @@ date: 2021-02-24 12:22:58-0700
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/02/24/talking-with-strangers
 ---
 
 In this week’s update, I discuss a **more difficult therapy session**, a **delightful group of sisters**, and an **inspiring TV show**.

@@ -5,7 +5,7 @@ image:
   path: https://media.bennorris.com/images/mentalworkhealth/posts/mindful-sketch-template.jpg
   thumbnail: https://media.bennorris.com/images/mentalworkhealth/posts/thumbnails/mindful-sketch-template.jpg
 gallery_thumb: https://media.bennorris.com/images/mentalworkhealth/thumbs/mindful-sketch-template.jpg
-category: Mental Work Health
+canonical_url: https://bennorris.com/2022/02/12/mindful-sketch-template
 tags:
 - weekly update
 - mental health

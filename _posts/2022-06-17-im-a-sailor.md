@@ -5,7 +5,7 @@ image:
   path: https://media.bennorris.com/images/mentalworkhealth/posts/i’m-a-sailor.jpg
   thumbnail: https://media.bennorris.com/images/mentalworkhealth/posts/thumbnails/i’m-a-sailor.jpg
 gallery_thumb: https://media.bennorris.com/images/mentalworkhealth/thumbs/i’m-a-sailor.jpg
-category: Mental Work Health
+canonical_url: https://bennorris.com/2002/06/17/im-a-sailor
 tags:
 - weekly update
 - mental health

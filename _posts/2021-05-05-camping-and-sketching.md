@@ -4,7 +4,7 @@ date: 2021-05-05 08:15:50-0600
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/05/05/camping-and-sketching
 ---
 
 This week I share about **struggling to come home**, the **joy of sketching**, and **finding fun**.

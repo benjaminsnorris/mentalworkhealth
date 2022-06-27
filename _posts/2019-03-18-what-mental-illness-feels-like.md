@@ -4,7 +4,7 @@ date: 2019-03-18 16:39:00-0600
 tags:
 - mental health
 - favorite
-category: Mental Work Health
+canonical_url: https://bennorris.com/2019/03/18/what-mental-illness-feels-like
 ---
 
 A series with an inside look at the effects of mental illness and the way that I have made sense of it in my life.

@@ -4,7 +4,7 @@ date: 2020-09-28 16:33:00-0600
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2020/09/28/mac-and-cheese-and-syrup
 ---
 
 My update from this week includes a **nonsensical meal**, an **uplifting 1:1**, and an **evening of sports**.

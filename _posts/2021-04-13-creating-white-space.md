@@ -5,7 +5,7 @@ tags:
 - weekly update
 - mental health
 - general conference
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/04/13/creating-white-space
 ---
 
 After a couple weeks off, in this update I share about the **difficulty of quitting**, an **uplifting and enjoyable weekend**, and the **need for white space**.

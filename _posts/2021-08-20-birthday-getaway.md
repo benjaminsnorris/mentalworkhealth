@@ -5,8 +5,7 @@ gallery_thumb: https://media.bennorris.com/images/mentalworkhealth/thumbs/weight
 image: 
   path: https://media.bennorris.com/images/mentalworkhealth/posts/weight-of-responsibility.jpg
   thumbnail: https://media.bennorris.com/images/mentalworkhealth/posts/thumbnails/weight-of-responsibility.jpg
-categories:     
-- Mental Work Health
+canonical_url: https://bennorris.com/2021/08/20/birthday-getaway
 tags:           
 - weekly update
 - mental health

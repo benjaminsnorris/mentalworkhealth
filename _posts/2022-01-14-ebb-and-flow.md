@@ -5,7 +5,7 @@ image:
   path: https://media.bennorris.com/images/mentalworkhealth/posts/ebb-and-flow.jpg
   thumbnail: https://media.bennorris.com/images/mentalworkhealth/posts/thumbnails/ebb-and-flow.jpg
 gallery_thumb: https://media.bennorris.com/images/mentalworkhealth/thumbs/ebb-and-flow.jpg
-category: Mental Work Health
+canonical_url: https://bennorris.com/2022/01/14/ebb-and-flow
 tags:
 - weekly update
 - mental health

@@ -4,7 +4,7 @@ date: 2021-05-19 07:35:53-0600
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/05/19/emotional-resilience
 ---
 
 This week, I share about **sitting with emotions**, a **link between creativity and mental health**, and **respect**.

@@ -4,7 +4,7 @@ date: 2019-04-16 08:41:06-0600
 tags:
 - mindfulness
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2019/04/16/ninety-days-of-meditation
 ---
 
 ![90 day streak](https://media.bennorris.com/images/bennorris/uploads/2019/5c6d29bf1d.jpg){:loading="lazy"}

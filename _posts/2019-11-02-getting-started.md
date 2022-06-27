@@ -1,7 +1,7 @@
 ---
 title: "Getting started"
 date: 2019-11-02 21:54:16-0600
-category: Mental Work Health
+canonical_url: https://bennorris.com/2019/11/02/getting-started
 ---
 
 I am excited to get this site up and running. This is a project I have been considering for a while, and finally decided to just start. I read a couple articles and listened to some podcasts this week that discussed asking yourself what you are being called to do right now. As that kept running through my mind, I realized that I have an answer now more than at any time in my life. Aside from my family, I feel that the most important thing I can do is to increase awareness and decrease stigma of mental health, particularly in the workplace.

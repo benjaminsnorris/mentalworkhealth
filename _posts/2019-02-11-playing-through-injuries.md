@@ -3,7 +3,7 @@ title: "💮 Playing through injuries"
 date: 2019-02-11 14:05:53-0700
 tags:
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2019/02/11/playing-through-injuries
 ---
 
 The oft-lauded sports cliché to play through injuries can apply to life more generally with a broader view of “injuries.”

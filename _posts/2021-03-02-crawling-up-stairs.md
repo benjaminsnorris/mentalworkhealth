@@ -4,7 +4,7 @@ date: 2021-03-02 17:36:00-0700
 tags:
 - weekly update
 - mental health
-category: Mental Work Health
+canonical_url: https://bennorris.com/2021/03/02/crawling-up-stairs
 ---
 
 This past challenging week brought **panic attacks**, **connecting moments**, and a **charming game**.
