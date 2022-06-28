@@ -1,7 +1,6 @@
 ---
 title: "#49: Panic on the freeway"
 date: 2021-08-27 14:17:00-0700
-categories:     
 canonical_url: https://bennorris.com/2021/08/27/panic-on-the-freeway
 tags:           
 - weekly update
