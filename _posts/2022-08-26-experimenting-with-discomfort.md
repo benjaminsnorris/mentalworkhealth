@@ -14,7 +14,7 @@ image:
   thumbnail: https://media.bennorris.com/images/mentalworkhealth/posts/thumbnails/experimenting-with-discomfort.jpg
 gallery_thumb: https://media.bennorris.com/images/mentalworkhealth/thumbs/experimenting-with-discomfort.jpg
 
-canonical_url: https://bennorris.com/2022/08/25/experimenting-with-discomfort
+canonical_url: https://bennorris.com/2022/08/26/experimenting-with-discomfort
 ---
 
 
