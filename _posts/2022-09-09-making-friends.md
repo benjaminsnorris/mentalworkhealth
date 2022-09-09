@@ -3,8 +3,8 @@ title: "#97: Making friends"
 date: 2022-09-09 06:00:00-0600
 tags:
 - ocd
-- podcast
 - audio
+- podcast
 - weekly update
 - mental health
 - hand lettering
